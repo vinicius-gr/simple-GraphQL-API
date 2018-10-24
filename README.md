@@ -1,0 +1,1 @@
+This is a simple NodeJS API that makes use of GraphQL to query data from a JSON server using Axios promises.
